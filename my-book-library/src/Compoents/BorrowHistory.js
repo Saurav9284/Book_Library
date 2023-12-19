@@ -12,6 +12,7 @@ const BorrowHistory = ({ history }) => {
         ))}
       </ul>
     </div>
+    
   );
 };
 
