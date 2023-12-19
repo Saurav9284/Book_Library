@@ -11,8 +11,9 @@ const BorrowHistory = ({ history }) => {
           </li>
         ))}
       </ul>
+      
     </div>
-    
+
   );
 };
 
