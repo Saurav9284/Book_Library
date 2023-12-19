@@ -9,6 +9,7 @@ const BorrowHistory = ({ history }) => {
           <li key={index}>
             <strong>{entry.title}</strong> - Borrowed by {entry.borrower} on {entry.date}
           </li>
+          
         ))}
       </ul>
     </div>
